@@ -1,0 +1,100 @@
+DigiSQL 1.0.4 (MySQL Class)
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lmysqlclient: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lmysqlclient: 'linker' input unused [-Wunused-command-line-argument]
+DigiSql.cpp:250:25: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+                        sprintf(sqlerrstring,mysql_error(dblink));
+                                             ^~~~~~~~~~~~~~~~~~~
+DigiSql.cpp:250:25: note: treat the string as an argument to avoid this
+                        sprintf(sqlerrstring,mysql_error(dblink));
+                                             ^
+                                             "%s", 
+DigiSql.cpp:596:11: error: cast from pointer to smaller type 'unsigned int' loses information
+                        return (unsigned int)dbrow[sqlFieldNum];
+                               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DigiSql.cpp:772:11: error: cast from pointer to smaller type 'int' loses information
+                        return (signed int)dbrow[sqlFieldNum];
+                               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 warning and 2 errors generated.
+make: *** [DigiSql.ll] Error 1
+DigiSQL 1.0.4 (MySQL Class)
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lmysqlclient: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lmysqlclient: 'linker' input unused [-Wunused-command-line-argument]
+DigiSql.cpp:250:25: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+                        sprintf(sqlerrstring,mysql_error(dblink));
+                                             ^~~~~~~~~~~~~~~~~~~
+DigiSql.cpp:250:25: note: treat the string as an argument to avoid this
+                        sprintf(sqlerrstring,mysql_error(dblink));
+                                             ^
+                                             "%s", 
+DigiSql.cpp:596:11: error: cast from pointer to smaller type 'unsigned int' loses information
+                        return (unsigned int)dbrow[sqlFieldNum];
+                               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DigiSql.cpp:772:11: error: cast from pointer to smaller type 'int' loses information
+                        return (signed int)dbrow[sqlFieldNum];
+                               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 warning and 2 errors generated.
+make: *** [DigiSql.ll] Error 1
+DigiSQL 1.0.4 (MySQL Class)
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lmysqlclient: 'linker' input unused [-Wunused-command-line-argument]
+DigiSql.cpp:250:25: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+                        sprintf(sqlerrstring,mysql_error(dblink));
+                                             ^~~~~~~~~~~~~~~~~~~
+DigiSql.cpp:250:25: note: treat the string as an argument to avoid this
+                        sprintf(sqlerrstring,mysql_error(dblink));
+                                             ^
+                                             "%s", 
+DigiSql.cpp:596:11: error: cast from pointer to smaller type 'unsigned int' loses information
+                        return (unsigned int)dbrow[sqlFieldNum];
+                               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DigiSql.cpp:772:11: error: cast from pointer to smaller type 'int' loses information
+                        return (signed int)dbrow[sqlFieldNum];
+                               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 warning and 2 errors generated.
+make: *** [DigiSql.ll] Error 1
+Huffman compression algorithm.
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: error: no such file or directory: 'hdecomp'
+make: *** [hcomp] Error 1
+Huffman compression algorithm.
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: error: no such file or directory: 'hdecomp'
+make: *** [hcomp] Error 1
+Huffman compression algorithm.
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: error: no such file or directory: 'hdecomp'
+make: *** [hcomp] Error 1
+Huffman compression algorithm.
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: error: no such file or directory: 'hdecomp'
+make: *** [hcomp] Error 1
+Huffman compression algorithm.
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: error: no such file or directory: 'hdecomp'
+make: *** [hcomp] Error 1
+Huffman compression algorithm.
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: error: no such file or directory: 'hdecomp'
+make: *** [hcomp] Error 1

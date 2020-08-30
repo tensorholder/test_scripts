@@ -1,0 +1,348 @@
+Cube3D-Spot
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGL: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGLU: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lglu: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular Cube3D-Spot <- Cube3D-Spot dependency dropped.
+/usr/bin/ld: cannot find -lglu
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [Cube3D-Spot] Error 1
+Cube3D-Spot
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGL: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGLU: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lglu: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular Cube3D-Spot <- Cube3D-Spot dependency dropped.
+/usr/bin/ld: cannot find -lglu
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [Cube3D-Spot] Error 1
+Cube3D-Spot
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGL: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGLU: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lglu: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular Cube3D-Spot <- Cube3D-Spot dependency dropped.
+/usr/bin/ld: cannot find -lglu
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [Cube3D-Spot] Error 1
+Cube3D-Spot
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGL: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGLU: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lglu: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular Cube3D-Spot <- Cube3D-Spot dependency dropped.
+/usr/bin/ld: cannot find -lglu
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [Cube3D-Spot] Error 1
+Cube3D-Spot
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGL: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGLU: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lglu: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular Cube3D-Spot <- Cube3D-Spot dependency dropped.
+/usr/bin/ld: cannot find -lglu
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [Cube3D-Spot] Error 1
+Cube3D-Spot
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGL: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGLU: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lglu: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular Cube3D-Spot <- Cube3D-Spot dependency dropped.
+/usr/bin/ld: cannot find -lglu
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [Cube3D-Spot] Error 1
+Basic String Manipulation Tutorial
+make: *** No rule to make target 'tutorial.cpp', needed by 'tutorial.ll'.  Stop.
+Basic String Manipulation Tutorial
+make: *** No rule to make target 'tutorial.cpp', needed by 'tutorial.ll'.  Stop.
+Basic String Manipulation Tutorial
+make: *** No rule to make target 'tutorial.cpp', needed by 'tutorial.ll'.  Stop.
+Basic String Manipulation Tutorial
+make: *** No rule to make target 'tutorial.cpp', needed by 'tutorial.ll'.  Stop.
+Basic String Manipulation Tutorial
+make: *** No rule to make target 'tutorial.cpp', needed by 'tutorial.ll'.  Stop.
+Basic String Manipulation Tutorial
+make: *** No rule to make target 'tutorial.cpp', needed by 'tutorial.ll'.  Stop.
+C++ Linked List program
+make: *** No rule to make target 'List.cpp', needed by 'List.ll'.  Stop.
+C++ Linked List program
+make: *** No rule to make target 'List.cpp', needed by 'List.ll'.  Stop.
+C++ Linked List program
+make: *** No rule to make target 'List.cpp', needed by 'List.ll'.  Stop.
+C++ Linked List program
+make: *** No rule to make target 'List.cpp', needed by 'List.ll'.  Stop.
+C++ Linked List program
+make: *** No rule to make target 'List.cpp', needed by 'List.ll'.  Stop.
+C++ Linked List program
+make: *** No rule to make target 'List.cpp', needed by 'List.ll'.  Stop.
+big companies simulator
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular licencing <- licencing dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [licencing] Error 1
+big companies simulator
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular licencing <- licencing dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [licencing] Error 1
+big companies simulator
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular licencing <- licencing dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [licencing] Error 1
+big companies simulator
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular licencing <- licencing dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [licencing] Error 1
+big companies simulator
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular licencing <- licencing dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [licencing] Error 1
+big companies simulator
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular licencing <- licencing dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [licencing] Error 1
+Crypto
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular crypto <- crypto dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [crypto] Error 1
+Crypto
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular crypto <- crypto dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [crypto] Error 1
+Crypto
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular crypto <- crypto dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [crypto] Error 1
+Crypto
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular crypto <- crypto dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [crypto] Error 1
+Crypto
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular crypto <- crypto dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [crypto] Error 1
+Crypto
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular crypto <- crypto dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [crypto] Error 1
+token strings and command lines
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular espace <- espace dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [espace] Error 1
+token strings and command lines
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular espace <- espace dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [espace] Error 1
+token strings and command lines
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular espace <- espace dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [espace] Error 1
+token strings and command lines
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular espace <- espace dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [espace] Error 1
+token strings and command lines
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular espace <- espace dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [espace] Error 1
+token strings and command lines
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular espace <- espace dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [espace] Error 1
+Cube3D-Spot
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGL: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGLU: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lglu: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular Cube3D-Spot <- Cube3D-Spot dependency dropped.
+/usr/bin/ld: cannot find -lglu
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [Cube3D-Spot] Error 1
+Cube3D-Spot
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGL: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGLU: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lglu: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular Cube3D-Spot <- Cube3D-Spot dependency dropped.
+/usr/bin/ld: cannot find -lglu
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [Cube3D-Spot] Error 1
+Cube3D-Spot
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGL: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGLU: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lglu: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular Cube3D-Spot <- Cube3D-Spot dependency dropped.
+/usr/bin/ld: cannot find -lglu
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [Cube3D-Spot] Error 1
+Cube3D-Spot
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGL: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGLU: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lglu: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular Cube3D-Spot <- Cube3D-Spot dependency dropped.
+/usr/bin/ld: cannot find -lglu
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [Cube3D-Spot] Error 1
+Cube3D-Spot
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGL: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGLU: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lglu: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular Cube3D-Spot <- Cube3D-Spot dependency dropped.
+/usr/bin/ld: cannot find -lglu
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [Cube3D-Spot] Error 1
+Cube3D-Spot
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGL: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lGLU: 'linker' input unused [-Wunused-command-line-argument]
+clang-11: warning: -lglu: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular Cube3D-Spot <- Cube3D-Spot dependency dropped.
+/usr/bin/ld: cannot find -lglu
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [Cube3D-Spot] Error 1
+big companies simulator
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular licencing <- licencing dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [licencing] Error 1
+big companies simulator
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular licencing <- licencing dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [licencing] Error 1
+big companies simulator
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular licencing <- licencing dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [licencing] Error 1
+big companies simulator
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular licencing <- licencing dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [licencing] Error 1
+big companies simulator
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular licencing <- licencing dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [licencing] Error 1
+big companies simulator
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular licencing <- licencing dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [licencing] Error 1
+Crypto
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular crypto <- crypto dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [crypto] Error 1
+Crypto
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular crypto <- crypto dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [crypto] Error 1
+Crypto
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular crypto <- crypto dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [crypto] Error 1
+Crypto
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular crypto <- crypto dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [crypto] Error 1
+Crypto
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular crypto <- crypto dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [crypto] Error 1
+Crypto
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular crypto <- crypto dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [crypto] Error 1
+token strings and command lines
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular espace <- espace dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [espace] Error 1
+token strings and command lines
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular espace <- espace dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [espace] Error 1
+token strings and command lines
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular espace <- espace dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [espace] Error 1
+token strings and command lines
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular espace <- espace dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [espace] Error 1
+token strings and command lines
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular espace <- espace dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [espace] Error 1
+token strings and command lines
+clang-11: warning: -lncurse: 'linker' input unused [-Wunused-command-line-argument]
+make: Circular espace <- espace dependency dropped.
+/usr/bin/ld: cannot find -lncurse
+clang-11: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [espace] Error 1

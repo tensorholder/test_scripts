@@ -1,0 +1,11 @@
+opt_O0
+Makefile:721: *** recipe commences before first target.  Stop.
+opt_O0
+clang-11: warning: -lncurses: 'linker' input unused [-Wunused-command-line-argument]
+opt: Too many positional arguments specified!
+Can specify at most 1 positional arguments: See: opt --help
+make: *** [RopeStrings.bc] Error 1
+-O1
+opt: Too many positional arguments specified!
+Can specify at most 1 positional arguments: See: opt --help
+make: *** [RopeStrings.bc] Error 1
